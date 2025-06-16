@@ -1,0 +1,6 @@
+src/data/uploads/
+*.pdf
+*.docx
+*.txt
+.env
+
